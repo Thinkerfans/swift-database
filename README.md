@@ -16,4 +16,10 @@ class Person: NSManagedObject {
 问题二
 xxx.xcdatamodeid文件的创建和Entity的创建
 
+知识点：
+1、swift数据存取
+2、tableview自定义TableViewCell
+3、swift对话框Alert的使用
+
+
 
